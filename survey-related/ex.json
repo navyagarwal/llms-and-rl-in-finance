@@ -1,0 +1,340 @@
+[
+    {
+        "object": "page",
+        "id": "15577440-9b8b-8072-8346-e82222d39be4",
+        "created_time": "2024-12-07T19:38:00.000Z",
+        "last_edited_time": "2024-12-07T19:41:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "7a68a53e-9dc9-4312-a67c-d9d7663d6dc8"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "7a68a53e-9dc9-4312-a67c-d9d7663d6dc8"
+        },
+        "cover": "None",
+        "icon": "None",
+        "parent": {
+            "type": "database_id",
+            "database_id": "15577440-9b8b-8076-9272-eb301a27461b"
+        },
+        "archived": "False",
+        "in_trash": "False",
+        "properties": {
+            "Status": {
+                "id": "DbNX",
+                "type": "select",
+                "select": "None"
+            },
+            "Publication Date": {
+                "id": "FxpZ",
+                "type": "date",
+                "date": {
+                    "start": "2024-10-30",
+                    "end": "None",
+                    "time_zone": "None"
+                }
+            },
+            "Relevant Links": {
+                "id": "VQI%3F",
+                "type": "url",
+                "url": "None"
+            },
+            "Venue": {
+                "id": "Vw%5CQ",
+                "type": "rich_text",
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "IEEE Transactions on Neural Networks and Learning Systems",
+                            "link": "None"
+                        },
+                        "annotations": {
+                            "bold": "False",
+                            "italic": "False",
+                            "strikethrough": "False",
+                            "underline": "False",
+                            "code": "False",
+                            "color": "default"
+                        },
+                        "plain_text": "IEEE Transactions on Neural Networks and Learning Systems",
+                        "href": "None"
+                    }
+                ]
+            },
+            "Affiliation": {
+                "id": "%5CDRP",
+                "type": "rich_text",
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "IEEE",
+                            "link": "None"
+                        },
+                        "annotations": {
+                            "bold": "False",
+                            "italic": "False",
+                            "strikethrough": "False",
+                            "underline": "False",
+                            "code": "False",
+                            "color": "default"
+                        },
+                        "plain_text": "IEEE",
+                        "href": "None"
+                    }
+                ]
+            },
+            "Abstract": {
+                "id": "%5CtxI",
+                "type": "rich_text",
+                "rich_text": []
+            },
+            "Authors": {
+                "id": "aCkv",
+                "type": "rich_text",
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Yuji Cao, Huan Zhao, Yuheng Cheng, Ting Shu, Yue Chen, Guolong Liu, Gaoqi Liang, Junhua Zhao, Jinyue Yan, Yun Li",
+                            "link": "None"
+                        },
+                        "annotations": {
+                            "bold": "False",
+                            "italic": "False",
+                            "strikethrough": "False",
+                            "underline": "False",
+                            "code": "False",
+                            "color": "default"
+                        },
+                        "plain_text": "Yuji Cao, Huan Zhao, Yuheng Cheng, Ting Shu, Yue Chen, Guolong Liu, Gaoqi Liang, Junhua Zhao, Jinyue Yan, Yun Li",
+                        "href": "None"
+                    }
+                ]
+            },
+            "Notes": {
+                "id": "dE%3A%5D",
+                "type": "rich_text",
+                "rich_text": []
+            },
+            "Citation Count": {
+                "id": "j%5E%5CW",
+                "type": "number",
+                "number": "None"
+            },
+            "Contributor": {
+                "id": "kl~%40",
+                "type": "people",
+                "people": [
+                    {
+                        "object": "user",
+                        "id": "7a68a53e-9dc9-4312-a67c-d9d7663d6dc8",
+                        "name": "Navya Agarwal",
+                        "avatar_url": "https://lh3.googleusercontent.com/a-/AOh14Gj_V3a2cx24q6-rVOSHEjm9KVWde_M-dnmFJj2I=s100",
+                        "type": "person",
+                        "person": {
+                            "email": "navya.agarwal.in@gmail.com"
+                        }
+                    }
+                ]
+            },
+            "DOI": {
+                "id": "%7Bbw%60",
+                "type": "url",
+                "url": "None"
+            },
+            "Tags": {
+                "id": "%7Dm%7Bq",
+                "type": "multi_select",
+                "multi_select": []
+            },
+            "Paper Title": {
+                "id": "title",
+                "type": "title",
+                "title": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Survey on Large Language Model-Enhanced Reinforcement Learning: Concept, Taxonomy, and Methods",
+                            "link": "None"
+                        },
+                        "annotations": {
+                            "bold": "False",
+                            "italic": "False",
+                            "strikethrough": "False",
+                            "underline": "False",
+                            "code": "False",
+                            "color": "default"
+                        },
+                        "plain_text": "Survey on Large Language Model-Enhanced Reinforcement Learning: Concept, Taxonomy, and Methods",
+                        "href": "None"
+                    }
+                ]
+            }
+        },
+        "url": "https://www.notion.so/Survey-on-Large-Language-Model-Enhanced-Reinforcement-Learning-Concept-Taxonomy-and-Methods-155774409b8b80728346e82222d39be4",
+        "public_url": "https://placid-duke-750.notion.site/Survey-on-Large-Language-Model-Enhanced-Reinforcement-Learning-Concept-Taxonomy-and-Methods-155774409b8b80728346e82222d39be4"
+    },
+    {
+        "object": "page",
+        "id": "15577440-9b8b-8083-972b-fea484beb70d",
+        "created_time": "2024-12-07T19:15:00.000Z",
+        "last_edited_time": "2024-12-07T19:40:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "7a68a53e-9dc9-4312-a67c-d9d7663d6dc8"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "7a68a53e-9dc9-4312-a67c-d9d7663d6dc8"
+        },
+        "cover": "None",
+        "icon": "None",
+        "parent": {
+            "type": "database_id",
+            "database_id": "15577440-9b8b-8076-9272-eb301a27461b"
+        },
+        "archived": "False",
+        "in_trash": "False",
+        "properties": {
+            "Status": {
+                "id": "DbNX",
+                "type": "select",
+                "select": "None"
+            },
+            "Publication Date": {
+                "id": "FxpZ",
+                "type": "date",
+                "date": {
+                    "start": "2024-04-29",
+                    "end": "None",
+                    "time_zone": "None"
+                }
+            },
+            "Relevant Links": {
+                "id": "VQI%3F",
+                "type": "url",
+                "url": "None"
+            },
+            "Venue": {
+                "id": "Vw%5CQ",
+                "type": "rich_text",
+                "rich_text": []
+            },
+            "Affiliation": {
+                "id": "%5CDRP",
+                "type": "rich_text",
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Thomson Reuters AI Labs",
+                            "link": "None"
+                        },
+                        "annotations": {
+                            "bold": "False",
+                            "italic": "False",
+                            "strikethrough": "False",
+                            "underline": "False",
+                            "code": "False",
+                            "color": "default"
+                        },
+                        "plain_text": "Thomson Reuters AI Labs",
+                        "href": "None"
+                    }
+                ]
+            },
+            "Abstract": {
+                "id": "%5CtxI",
+                "type": "rich_text",
+                "rich_text": []
+            },
+            "Authors": {
+                "id": "aCkv",
+                "type": "rich_text",
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Sina Gholamian, Domingo Huh",
+                            "link": "None"
+                        },
+                        "annotations": {
+                            "bold": "False",
+                            "italic": "False",
+                            "strikethrough": "False",
+                            "underline": "False",
+                            "code": "False",
+                            "color": "default"
+                        },
+                        "plain_text": "Sina Gholamian, Domingo Huh",
+                        "href": "None"
+                    }
+                ]
+            },
+            "Notes": {
+                "id": "dE%3A%5D",
+                "type": "rich_text",
+                "rich_text": []
+            },
+            "Citation Count": {
+                "id": "j%5E%5CW",
+                "type": "number",
+                "number": "None"
+            },
+            "Contributor": {
+                "id": "kl~%40",
+                "type": "people",
+                "people": [
+                    {
+                        "object": "user",
+                        "id": "7a68a53e-9dc9-4312-a67c-d9d7663d6dc8",
+                        "name": "Navya Agarwal",
+                        "avatar_url": "https://lh3.googleusercontent.com/a-/AOh14Gj_V3a2cx24q6-rVOSHEjm9KVWde_M-dnmFJj2I=s100",
+                        "type": "person",
+                        "person": {
+                            "email": "navya.agarwal.in@gmail.com"
+                        }
+                    }
+                ]
+            },
+            "DOI": {
+                "id": "%7Bbw%60",
+                "type": "url",
+                "url": "None"
+            },
+            "Tags": {
+                "id": "%7Dm%7Bq",
+                "type": "multi_select",
+                "multi_select": []
+            },
+            "Paper Title": {
+                "id": "title",
+                "type": "title",
+                "title": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Reinforcement Learning Problem Solving with Large Language Models",
+                            "link": "None"
+                        },
+                        "annotations": {
+                            "bold": "False",
+                            "italic": "False",
+                            "strikethrough": "False",
+                            "underline": "False",
+                            "code": "False",
+                            "color": "default"
+                        },
+                        "plain_text": "Reinforcement Learning Problem Solving with Large Language Models",
+                        "href": "None"
+                    }
+                ]
+            }
+        },
+        "url": "https://www.notion.so/Reinforcement-Learning-Problem-Solving-with-Large-Language-Models-155774409b8b8083972bfea484beb70d",
+        "public_url": "https://placid-duke-750.notion.site/Reinforcement-Learning-Problem-Solving-with-Large-Language-Models-155774409b8b8083972bfea484beb70d"
+    }
+]

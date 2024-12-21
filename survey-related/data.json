@@ -1,0 +1,21 @@
+[
+    {
+        "Publication Date": "2024-10-30",
+        "Venue": "IEEE Transactions on Neural Networks and Learning Systems",
+        "Affiliation": "IEEE",
+        "Authors": "Yuji Cao, Huan Zhao, Yuheng Cheng, Ting Shu, Yue Chen, Guolong Liu, Gaoqi Liang, Junhua Zhao, Jinyue Yan, Yun Li",
+        "DOI": "https://doi.org/10.48550/arXiv.2404.00282",
+        "Paper Title": "Survey on Large Language Model-Enhanced Reinforcement Learning: Concept, Taxonomy, and Methods"
+    },
+    {
+        "Publication Date": "2024-04-29",
+        "Affiliation": "Thomson Reuters AI Labs",
+        "Authors": "Sina Gholamian, Domingo Huh",
+        "DOI": "https://doi.org/10.48550/arXiv.2404.18638",
+        "Paper Title": "Reinforcement Learning Problem Solving with Large Language Models"
+    },
+    {
+        "DOI": "https://doi.org/10.48550/arXiv.2404.23862837",
+        "Paper Title": "Reinforcement Learning Problem Solving with Large Language"
+    }
+]
